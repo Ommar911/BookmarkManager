@@ -1,0 +1,92 @@
+.login-container[b-dhdfcu44td] {
+    width: 65%;
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+    .login-container .left-login-container[b-dhdfcu44td] {
+        width: 40%;
+        background-color: red;
+        border-radius: 8px;
+    }
+
+    .login-container .left-login-container h1[b-dhdfcu44td]{
+        font-size: 80px;
+        color:white;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+    }
+
+    .login-container .right-login-container[b-dhdfcu44td] {
+        width: 60%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+        align-content: center;
+        align-items: center;
+    }
+
+.right-login-container .login-panel[b-dhdfcu44td] {
+    padding: 20px;
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+}
+
+.login-panel h4[b-dhdfcu44td] {
+    font-weight: bold;
+    color: red;
+    display: flex;
+}
+
+.login-panel span[b-dhdfcu44td] {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.login-panel .login-text[b-dhdfcu44td] {
+    margin-top: 15px;
+    display: flex;
+    color: dimgray;
+}
+
+.login-panel input[b-dhdfcu44td] {
+    color: darkgray;
+}
+
+.login-panel .checkbox[b-dhdfcu44td] {
+    margin-top: 10px;
+    display: flex;
+}
+
+    .login-panel .checkbox input[b-dhdfcu44td] {
+        width: 18px;
+    }
+
+    .login-panel .checkbox span[b-dhdfcu44td] {
+        padding-left: 8px;
+    }
+
+.login-panel button[b-dhdfcu44td] {
+    margin-top: 15px;
+    height: 40px;
+}
+
+.login-panel .button-pink[b-dhdfcu44td] {
+    color: white;
+    background-color: red;
+}
+
+.login-panel .button-white[b-dhdfcu44td] {
+    background-color: white;
+}
+
+    .login-panel .button-white a[b-dhdfcu44td] {
+        color: red;
+    }

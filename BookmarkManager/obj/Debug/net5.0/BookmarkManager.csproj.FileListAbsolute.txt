@@ -1,0 +1,168 @@
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\appsettings.json
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.StaticWebAssets.xml
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.exe
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.deps.json
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.runtimeconfig.json
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.runtimeconfig.dev.json
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.dll
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\ref\BookmarkManager.dll
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.pdb
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.Views.dll
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.Views.pdb
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.csproj.AssemblyReference.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.AssemblyInfoInputs.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.AssemblyInfo.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.csproj.CoreCompileInputs.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorComponent.input.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorComponent.output.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\BookmarkManager.dll
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.TagHelpers.input.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.TagHelpers.output.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorCoreGenerate.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorAssemblyInfo.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorAssemblyInfo.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\staticwebassets\BookmarkManager.StaticWebAssets.Manifest.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\staticwebassets\BookmarkManager.StaticWebAssets.xml
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\bundle\BookmarkManager.styles.css
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\projectbundle\BookmarkManager.bundle.scp.css
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorTargetAssemblyInfo.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorTargetAssemblyInfo.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.Views.pdb
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.dll
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\ref\BookmarkManager.dll
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.pdb
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.genruntimeconfig.cache
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.csproj.CopyComplete
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Pages\HomePage.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Pages\LoginPage.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Pages\HomePage.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Pages\LoginPage.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\Google.Apis.Drive.v3.dll
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\bin\Debug\net5.0\credentials.json
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\Collections\CollectionContainerComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\Collections\CreateCollectionComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\Collections\EditCollectionComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\PageComponents\HeaderComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\PageComponents\LoginComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\BookmarkFolder\BookmarkComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\BookmarkFolder\CreateBookmarkComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\BookmarkFolder\EditBookmarkComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\BookmarkFolder\BookmarkComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\BookmarkFolder\CreateBookmarkComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\BookmarkFolder\EditBookmarkComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\Collections\CollectionContainerComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\Collections\CreateCollectionComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\Collections\EditCollectionComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\PageComponents\HeaderComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\PageComponents\LoginComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\BookmarkFolder\BookmarkComponent.razor.rz.scp.css
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\BookmarkFolder\CreateBookmarkComponent.razor.rz.scp.css
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\BookmarkFolder\EditBookmarkComponent.razor.rz.scp.css
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\Collections\CollectionContainerComponent.razor.rz.scp.css
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\Collections\CreateCollectionComponent.razor.rz.scp.css
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\Collections\EditCollectionComponent.razor.rz.scp.css
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\PageComponents\HeaderComponent.razor.rz.scp.css
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\PageComponents\LoginComponent.razor.rz.scp.css
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\PageComponents\NavBarComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\PageComponents\NavBarComponent.razor.g.cs
+C:\Users\Brand\source\repos\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\PageComponents\NavBarComponent.razor.rz.scp.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\appsettings.json
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\credentials.json
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.StaticWebAssets.xml
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.exe
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.deps.json
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.runtimeconfig.json
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.runtimeconfig.dev.json
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.dll
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\ref\BookmarkManager.dll
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.pdb
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.Views.dll
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\BookmarkManager.Views.pdb
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\Google.Apis.Drive.v3.dll
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.csprojAssemblyReference.cache
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.AssemblyInfoInputs.cache
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.AssemblyInfo.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.csproj.CoreCompileInputs.cache
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorComponent.input.cache
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Pages\HomePage.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Pages\LoginPage.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\BookmarkFolder\BookmarkComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\BookmarkFolder\CreateBookmarkComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\BookmarkFolder\EditBookmarkComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\Collections\CollectionContainerComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\Collections\CreateCollectionComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\Collections\EditCollectionComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\PageComponents\HeaderComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\PageComponents\LoginComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Components\PageComponents\NavBarComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorComponent.output.cache
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\RazorDeclaration\BookmarkManager.dll
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.TagHelpers.input.cache
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.TagHelpers.output.cache
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorCoreGenerate.cache
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Pages\HomePage.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Pages\LoginPage.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\BookmarkFolder\BookmarkComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\BookmarkFolder\CreateBookmarkComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\BookmarkFolder\EditBookmarkComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\Collections\CollectionContainerComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\Collections\CreateCollectionComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\Collections\EditCollectionComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\PageComponents\HeaderComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\PageComponents\LoginComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Components\PageComponents\NavBarComponent.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorAssemblyInfo.cache
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorAssemblyInfo.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\staticwebassets\BookmarkManager.StaticWebAssets.Manifest.cache
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\staticwebassets\BookmarkManager.StaticWebAssets.xml
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\BookmarkFolder\BookmarkComponent.razor.rz.scp.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\BookmarkFolder\CreateBookmarkComponent.razor.rz.scp.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\BookmarkFolder\EditBookmarkComponent.razor.rz.scp.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\Collections\CollectionContainerComponent.razor.rz.scp.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\Collections\CreateCollectionComponent.razor.rz.scp.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\Collections\EditCollectionComponent.razor.rz.scp.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\PageComponents\HeaderComponent.razor.rz.scp.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\PageComponents\LoginComponent.razor.rz.scp.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Components\PageComponents\NavBarComponent.razor.rz.scp.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\bundle\BookmarkManager.styles.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\scopedcss\projectbundle\BookmarkManager.bundle.scp.css
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorTargetAssemblyInfo.cache
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.RazorTargetAssemblyInfo.cs
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.Views.pdb
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.csproj.CopyComplete
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.dll
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\ref\BookmarkManager.dll
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.pdb
+C:\Users\OMMAR\Desktop\PROYECTO BLAZOR\proyecto 2\BookmarkManager\BookmarkManager\obj\Debug\net5.0\BookmarkManager.genruntimeconfig.cache

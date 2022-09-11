@@ -1,0 +1,44 @@
+﻿.bookmarks-container {
+    width: 200px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    margin: 15px;
+}
+
+.options-bookmark {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+    .options-bookmark button {
+        background-color: white;
+        margin: 3px;
+        border-width: 1px;
+        border-radius: 5px;
+    }
+
+.bookmark-name {
+    width: 100%;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    border-bottom: groove;
+    border-width: 1px;
+    align-items: center;
+    font-weight: 200;
+    color:red;
+}
+
+.bookmark-path {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 200;
+}

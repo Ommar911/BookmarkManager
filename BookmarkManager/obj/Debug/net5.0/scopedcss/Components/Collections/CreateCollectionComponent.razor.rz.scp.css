@@ -1,0 +1,22 @@
+.create-container[b-ygvhhtrnd7] {
+    width: 100%;
+    height: auto;
+    border-bottom: groove;
+    border-width: 1px;
+    padding: 25px 25px;
+    font-weight: bold;
+}
+    .create-container button[b-ygvhhtrnd7]{
+        border:none;
+        border-radius:5px;
+    }
+
+    .create-container .button-cancel[b-ygvhhtrnd7] {
+        background-color: white;
+        color: red;
+    }
+
+    .create-container .button-save[b-ygvhhtrnd7] {
+        background-color: red;
+        color:white;
+    }

@@ -1,0 +1,52 @@
+.edit-collection[b-h3fg69dfxe] {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.container-edit[b-h3fg69dfxe] {
+    position: fixed;
+    left: 40%;
+    top: 40%;
+    color: black;
+    padding: 20px;
+    width: 350px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.edit-collection input[b-h3fg69dfxe] {
+    border-width: 1px;
+    margin-bottom: 15px;
+}
+
+.edit-collection .buttons[b-h3fg69dfxe] {
+    display: flex;
+    justify-content: space-between;
+}
+
+.show[b-h3fg69dfxe] {
+    display: block;
+    animation-name: show-animation-b-h3fg69dfxe;
+    animation-duration: 1s;
+}
+
+@keyframes show-animation-b-h3fg69dfxe {
+    from {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+.hide[b-h3fg69dfxe] {
+    display: none;
+}

@@ -1,0 +1,19 @@
+﻿<EditBookmarkComponent IsOpened="isOpened" IdCard="Bookmark.Id"></EditBookmarkComponent>
+<div class="bookmarks-container">
+    <div class="bookmark-name">
+        <span>@Bookmark.Name</span>
+    </div>
+    <div class="options-bookmark">
+        <button @onclick="() => isOpened = true">Edit</button>
+        <button @onclick="DeleteBookmark">Delete</button>
+    </div>
+    <div class="bookmark-path">
+        <a href="@Bookmark.Path">@Bookmark.Path</a>
+    </div>
+</div>
+
+@code {
+    [Parameter] public Bookmark Bookmark { get; set; }
+
+    private bool isOpened = false;
+}

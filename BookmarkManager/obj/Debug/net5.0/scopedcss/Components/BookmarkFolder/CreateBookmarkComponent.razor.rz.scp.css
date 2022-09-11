@@ -1,0 +1,51 @@
+.create-bookmark[b-3vstgt2oyv] {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.container-create[b-3vstgt2oyv] {
+    position: fixed;
+    left: 40%;
+    top: 40%;
+    color: black;
+    padding: 20px;
+    width: 350px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.create-bookmark input[b-3vstgt2oyv] {
+    border-width: 1px;
+    margin-bottom: 15px;
+}
+
+.create-bookmark .buttons[b-3vstgt2oyv] {
+    display: flex;
+    justify-content: space-between;
+}
+
+.show[b-3vstgt2oyv] {
+    display: block;
+    animation-name: show-animation-b-3vstgt2oyv;
+    animation-duration: 1s;
+}
+
+@keyframes show-animation-b-3vstgt2oyv {
+    from {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+.hide[b-3vstgt2oyv] {
+    display: none;
+}

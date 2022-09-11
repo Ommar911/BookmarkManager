@@ -1,0 +1,92 @@
+﻿.login-container {
+    width: 65%;
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+    .login-container .left-login-container {
+        width: 40%;
+        background-color: red;
+        border-radius: 8px;
+    }
+
+    .login-container .left-login-container h1{
+        font-size: 80px;
+        color:white;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+    }
+
+    .login-container .right-login-container {
+        width: 60%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+        align-content: center;
+        align-items: center;
+    }
+
+.right-login-container .login-panel {
+    padding: 20px;
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+}
+
+.login-panel h4 {
+    font-weight: bold;
+    color: red;
+    display: flex;
+}
+
+.login-panel span {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.login-panel .login-text {
+    margin-top: 15px;
+    display: flex;
+    color: dimgray;
+}
+
+.login-panel input {
+    color: darkgray;
+}
+
+.login-panel .checkbox {
+    margin-top: 10px;
+    display: flex;
+}
+
+    .login-panel .checkbox input {
+        width: 18px;
+    }
+
+    .login-panel .checkbox span {
+        padding-left: 8px;
+    }
+
+.login-panel button {
+    margin-top: 15px;
+    height: 40px;
+}
+
+.login-panel .button-pink {
+    color: white;
+    background-color: red;
+}
+
+.login-panel .button-white {
+    background-color: white;
+}
+
+    .login-panel .button-white a {
+        color: red;
+    }

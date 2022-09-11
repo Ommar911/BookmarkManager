@@ -1,0 +1,52 @@
+.edit-bookmark[b-mpx3fw37ye] {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.container-edit[b-mpx3fw37ye] {
+    position: fixed;
+    left: 40%;
+    top: 40%;
+    color: black;
+    padding: 20px;
+    width: 350px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.edit-bookmark input[b-mpx3fw37ye] {
+    border-width: 1px;
+    margin-bottom: 15px;
+}
+
+.edit-bookmark .buttons[b-mpx3fw37ye] {
+    display: flex;
+    justify-content: space-between;
+}
+
+.show[b-mpx3fw37ye] {
+    display: block;
+    animation-name: show-animation-b-mpx3fw37ye;
+    animation-duration: 1s;
+}
+
+@keyframes show-animation-b-mpx3fw37ye {
+    from {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+.hide[b-mpx3fw37ye] {
+    display: none;
+}

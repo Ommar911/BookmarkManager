@@ -1,0 +1,30 @@
+﻿<div class="container-options-navbar">
+    <div class="options-navbar">
+        <button>DRAG & DROP</button>
+        <button>TAG FILTER</button>
+        <button>VIEW</button>
+        <button>EXPAND</button>
+        <button>COLLAPSE</button>
+    </div>
+    <div class="button-navbar">
+        <button @onclick="Open">ADD COLLECTION</button>
+    </div>
+</div>
+@if (isOpened)
+{
+    <CreateCollectionComponent onResult="CloseCreate"></CreateCollectionComponent>
+}
+
+@code{
+    private bool isOpened = false;
+
+    private void Open()
+    {
+        this.isOpened = true;
+    }
+
+    private void CloseCreate(bool var)
+    {
+        this.isOpened = var;
+    }
+}
